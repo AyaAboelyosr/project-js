@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "git-remote-origin-url": "^4.0.0"
+  }
+}

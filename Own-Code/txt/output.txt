@@ -1,0 +1,2 @@
+This is What we know about the A vokado:  ${textIn}.
+Created on ${Date.now()}
